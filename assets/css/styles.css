@@ -1,0 +1,292 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    display: flex;
+    background-color: #F9E0AE;
+    padding: 20px 80px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-item{
+    margin-left: 50px;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer; 
+}
+
+.contact_us{
+    background-color: #C24914;
+    padding: 4px 18px;
+    border-radius: 10px; 
+    color: #ffff;
+}
+
+.gallery-two {
+    width: 50%;
+}
+
+.gallery-three {
+    width: 50%;
+}
+
+.img-bg-one{
+    width: 100%;
+}
+
+.main-one{
+    display: flex;
+    align-items: center;
+    padding: 0px 70px;
+    margin-top: 100px;
+}
+
+.submit{
+    background: #FC8621;
+    padding: 13px 53px;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 14px;
+    color: #fff;
+    margin-top: 50px;
+}
+
+.name-item{
+    font-size: 48px;
+    font-weight: 600;
+    width: 428px;
+    height: 144px;
+    margin-top: 76px;
+}
+
+.name-item-one{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.gallery-four {
+    width: 50%;
+}
+
+.gallery-five {
+    width: 50%;
+    padding-left: 59px;
+}
+
+.img-bg-two{
+    width: 100%;
+}
+
+.main-two{
+    display: flex;
+    align-items: center;
+    padding: 0px 70px;
+}
+
+.gallery-six{
+    width: 50%;
+}
+
+.gallery-seven{
+    width: 50%;
+}
+
+.img-bg-three{
+    width: 100%;
+}
+
+.main-three{
+    display: flex;
+    align-items: center;
+    padding: 0px 70px;
+    margin-top: 100px;
+}
+
+.name-item-two{
+    font-size: 48px;
+    font-weight: 600;
+    width: 428px;
+    height: 144px;
+    margin-top: 44px;
+}
+
+.name-item-three{
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 7px;
+}
+
+.name-item-four{
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 7px;
+}
+
+.name-item-five{
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 7px;
+}
+.name-item-six{
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 38px;
+    
+}
+.name-item-seven{
+    font-size: 48px;
+    font-weight: 600;
+    width: 428px;
+    margin-top: 76px;
+}
+.name-item-eight{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 76px;
+
+}
+.gallery-eight{
+    width: 50%;
+}
+
+.gallery-nine{
+    width: 50%;
+}
+
+.img-bg-four{
+    width: 100%;
+}
+
+.main-four{
+    display: flex;
+    align-items: center;
+    padding: 0px 70px;
+    margin-top: 100px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main-five{
+    background-color: #F9E0AE;
+    padding: 20px 80px;
+    margin-top: 38px;
+   
+}
+
+.submit-one{
+    background-color: #C24914;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main-six{
+    display: flex;
+    margin-top: 30px;
+    background-color: #F9E0AE;
+    padding: 20px 80px;
+    height: 40vh;
+    font-weight: 600;
+    font-size: 15px;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.gallery-sixteen{
+    display: flex;
+    background-color: #F9E0AE;
+    padding: 20px 80px;
+    justify-content: center;
+    color:#7D7A74;
+}
+
+
+.contact_us_sub{
+    padding: 20px 80px;
+}
+
+.contact_input{
+    width: 100%;
+    margin-right: 20px;
+    padding: 17px 0px;
+    border: none;
+    color: #fff;
+}
+.gallery-eleven{
+    display: flex;
+    margin-top: 20px;
+}
+.gallery-fourteen{
+    font-size: 15px;
+    font-weight: 400;
+}
+.gallery-fifteen{
+    font-size: 15px;
+    font-weight: 400;
+}
+.name-item-nine{
+    font-size: 20px;
+    font-weight: 600;
+}
+.img-bg-six{
+    color: #00000080;
+    cursor: pointer; 
+}
+.img-bg-seven{
+    color: #00000080;
+    cursor: pointer; 
+}
+.img-bg-eight{
+    color: #00000080;
+    cursor: pointer; 
+}
+.img-bg-nine{
+    color: #00000080;
+    cursor: pointer; 
+}
+.name-item-ten{
+    font-size: 20px;
+    font-weight: 600;
+}
+.name-item-eleven{
+    color: #6C6C6C;
+    margin-top: 10px;
+}
+.name-item-twelve{
+    color: #6C6C6C;
+    margin-top: 10px;
+}
+.name-item-thirteen{
+    color: #6C6C6C;
+    margin-top: 10px;
+
+}
+.name-item-fourteen{
+    font-size: 20px;
+    font-weight: 600;
+}
+.name-item-fifteen{
+color: #00000080;
+margin-top: 10px;
+}
+.name-item-sixteen{
+color: #00000080;
+margin-top: 10px;
+}
+.name-item-seventeen{
+color: #00000080;
+margin-top: 10px;
+}
+
+
+
